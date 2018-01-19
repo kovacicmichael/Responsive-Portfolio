@@ -1,13 +1,11 @@
 
 *{
 	box-sizing: border-box;
-	border: solid 1px blue;
 }
 
 body{
 	background-image: url("../images/dust_scratches.png");
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	box-sizing: border-box;
 }
 
 .full-width-header{height: 70px;
